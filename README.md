@@ -1,1 +1,1 @@
-# Property-Price-Pridiction-in-R
+# Property-Price-Pridiction-in-Python
